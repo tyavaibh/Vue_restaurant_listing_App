@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "email": "anil@test.com",
+      "name": "Anil Sidhu",
+      "password": "Anil@123",
+      "id": 1
+    },
+    {
+      "name": "Rehana",
+      "email": "rehana@test.com",
+      "password": "rehana@123",
+      "id": 2
+    },
+    {
+      "name": "batman",
+      "email": "batman@test",
+      "password": "batman@123",
+      "id": 4
+    },
+    {
+      "name": "Vaibhav",
+      "email": "tyagi2802@test.com",
+      "password": "tyagi@123",
+      "id": 5
+    },
+    {
+      "name": "vt",
+      "email": "vt@test.com",
+      "password": "vt@123",
+      "id": 6
+    },
+    {
+      "name": "Adarsh tyagi",
+      "email": "adarshtyagi278@gmail.com",
+      "password": "vt@27",
+      "id": 7
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Pind Baluchi",
+      "contact": "264579",
+      "address": "Bijnore City",
+      "id": 2
+    },
+    {
+      "name": "KFC Prime",
+      "contact": "121212",
+      "address": "Delhi CP inner circle",
+      "id": 3
+    }
+  ]
+}

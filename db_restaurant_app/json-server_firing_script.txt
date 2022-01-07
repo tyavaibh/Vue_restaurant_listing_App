@@ -1,0 +1,2 @@
+1. Open cmd in the curent folder.
+2. Run command : json-server --watch db.json
